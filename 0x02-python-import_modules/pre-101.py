@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print("#pythoniscool")
+Def display_message():
+	return "#pythoniscool"
